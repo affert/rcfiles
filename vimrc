@@ -9,6 +9,9 @@ filetype off
 " Turn on syntax highlighting
 syntax on
 
+" F3 toggles paste mode
+set pastetoggle=<F3>
+
 " For plugins to load correctly
 filetype plugin indent on
 
